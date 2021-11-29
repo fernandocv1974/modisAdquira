@@ -8,7 +8,7 @@ Podremos acceder a la aplicación, a través de la Web corporativa de Adquira:
 
 A continuación, tenemos que ir al cuadro “Área de clientes”, situado en la parte superior derecha de la pantalla, y pulsar sobre “Marketplace.
 
-![Servicios y soluciones](/img/cap3-1.png)
+![Servicios y soluciones](/Marketplace-OM-Proveedor-Adquira/img/cap3-1.png)
 
 Cuando pulsamos en el enlace “Marketplace”, se despliega la pantalla de inicio de sesión, en la que deberemos indicar nuestro usuario y contraseña. Tras pulsar el icono “Iniciar sesión”, accederemos a la aplicación”.
 
@@ -20,7 +20,7 @@ Si Ud. no es cliente de Adquira España, en la parte superior de la pantalla dis
 
 En la página de inicio tendremos también la opción de solicitar una nueva contraseña a través de la aplicación, pulsando en la opción “RECUPERAR CONTRASEÑA”
 
-![Contraseña](/img/cap3-2.png)
+![Contraseña](/Marketplace-OM-Proveedor-Adquira/img/cap3-2.png)
 
 ### 3.1. Reseteo de contraseña
 
@@ -28,13 +28,13 @@ En el caso de tener un usuario activo y con un contrato vigente, pero no recorda
 
 Para ello, desde la ventana inicial de identificación de usuario, podrá pulsar en “olvidé mi contraseña”, accediendo a una nueva ventana donde deberá introducir el nombre de usuario y email asociado. En esta cuenta de correo recibirá las instrucciones que deberá seguir para modificar la contraseña.
 
-![Reseteo contraseña](/img/cap3-3.png)
+![Reseteo contraseña](/Marketplace-OM-Proveedor-Adquira/img/cap3-3.png)
 
 En ese momento nos aparecerá una comunicación en pantalla, avisando que en breve recibiremos en nuestra cuenta de correo electrónico un mensaje con las instrucciones a seguir para cambiar nuestra contraseña.
 
 Una vez hemos recibido el mensaje para restablecer nuestra contraseña, debemos hacer clic en el enlace: “Restablecer Contraseña”. Este enlace es temporal, de tal forma que si no accede y vuelve a solicitar el reseteo de la contraseña, se le proporcionará un enlace nuevo y el anterior ya no tendrá validez.
 
-![Validez contraseña](/img/cap3-4.png)
+![Validez contraseña](/Marketplace-OM-Proveedor-Adquira/img/cap3-4.png)
 
 A continuación, la aplicación nos llevará a una pantalla donde una vez introduzcamos nuestro usuario, introduciremos la nueva contraseña que deseemos, la confirmaremos de nuevo y seleccionaremos Aceptar, quedando ya registrada la nueva contraseña.
 
