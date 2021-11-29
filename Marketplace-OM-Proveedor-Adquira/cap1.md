@@ -11,7 +11,7 @@ Adquira basa su modelo de negocio en la creación de una plataforma On-line que 
 
 Adquira es una Compañía participada por BBVA, Repsol y Telefónica que han unido sus esfuerzos a la hora de realizar su transformación interna hacia los nuevos modelos de e-business.
 
-![Aprovisionamiento](/img/cap1-2.png)
+![Aprovisionamiento](/Marketplace-OM-Proveedor-Adquira/img/cap1-2.png)
 
 Adquira se dirige a todos los segmentos del mercado de bienes y servicios comunes y facilita, tanto las compras planificadas como las ocasionales, con propuestas de valor diferenciadas y servicios adicionales de valor añadido. Disponemos de soluciones adecuadas a las necesidades de cada empresa:
 
