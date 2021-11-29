@@ -42,11 +42,11 @@
    - 6.7.3. Devolución de Mercancía
    - 6.7.4. Anulación de Recepciones
    - 6.8. Consulta de Facturas Asociadas
-- 7. [Gestión de Órdenes de Mantenimiento de BBVA](cap7.md)
+7. [Gestión de Órdenes de Mantenimiento de BBVA](cap7.md)
    - 7.1. Contenido de una Orden de Mantenimiento
    - 7.2. Gestión de una Orden de Mantenimiento
    - 7.3. Órdenes Favoritas
    - 7.4. Actualización masiva de Órdenes de Mantenimiento
    - 7.5. Anexado masivo de ficheros a las Órdenes de Mantenimiento
-- 8. [Exportación a Excel de pedidos](cap8.md)
-- 9. [Atención al Cliente y Formación](cap9.md)
+8. [Exportación a Excel de pedidos](cap8.md)
+9. [Atención al Cliente y Formación](cap9.md)
