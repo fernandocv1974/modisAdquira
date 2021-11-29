@@ -1,4 +1,4 @@
-## Indice
+# Indice
 
 1. [Introducción](cap1.md)
    - 1.1. ¿Qué es Adquira?
