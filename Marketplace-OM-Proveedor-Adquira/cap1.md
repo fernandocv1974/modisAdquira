@@ -7,7 +7,7 @@ Adquira, plataforma de comercio electrónico para la gestión de compras, es la 
 
 Adquira basa su modelo de negocio en la creación de una plataforma On-line que traduce los sistemas tradicionales de compras en procesos con una mayor eficiencia que se materializa en importantes Beneficios, para compradores como proveedores.
 
-![Aprovisionamiento](/img/cap1-1.png)
+![Aprovisionamiento](/Marketplace-OM-Proveedor-Adquira/img/cap1-1.png)
 
 Adquira es una Compañía participada por BBVA, Repsol y Telefónica que han unido sus esfuerzos a la hora de realizar su transformación interna hacia los nuevos modelos de e-business.
 
