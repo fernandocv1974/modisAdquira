@@ -3,7 +3,7 @@
 ### 1.1. ¿Qué es Adquira?
 
 
-Adquira, plataforma de comercio electrónico para la gestión de compras, es la referencia española de soluciones de negociación y aprovisionamiento, avalada por más de 10 años de experiencia.
+Adquira, <span style="color:blue">some *blue* text</span> plataforma de comercio electrónico para la gestión de compras, es la referencia española de soluciones de negociación y aprovisionamiento, avalada por más de 10 años de experiencia.
 
 Adquira basa su modelo de negocio en la creación de una plataforma On-line que traduce los sistemas tradicionales de compras en procesos con una mayor eficiencia que se materializa en importantes Beneficios, para compradores como proveedores.
 
