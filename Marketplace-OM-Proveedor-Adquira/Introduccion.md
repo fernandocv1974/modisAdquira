@@ -13,3 +13,16 @@ sobre la presente obra en cualquier forma, y en particular los derechos de repro
 distribución y transformación que no podrán ser realizadas sin autorización expresa y
 escrita de ADQUIRA S.A.
 ```
+
+
+<style>
+r { color: Red }
+o { color: Orange }
+g { color: Green }
+</style>
+
+# TODOs:
+
+- <r>TODO:</r> Important thing to do
+- <o>TODO:</o> Less important thing to do
+- <g>DONE:</g> Breath deeply and improve karma
