@@ -1,8 +1,4 @@
-Adquira Marketplace
-
-## Gestión de Pedidos y Órdenes de Mantenimiento
-
-## Manual de proveedor
+![Introducción](/Marketplace-OM-Proveedor-Adquira/img/cap0-intro.png)
 
 
 
