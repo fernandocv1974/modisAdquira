@@ -34,8 +34,8 @@ El objeto de la utilización de la firma electrónica es que, el emisor de las f
 
 En el proceso de alta en Adquira Marketplace para la facturación electrónica, usted habrá elegido un tipo firma:
 
-- **Firma por el proveedor (propia)****:** Usted firmará con un certificado propio que le identifique como persona física o como persona jurídica.
-- **Firma delegada en Adquira**** :** Usted habrá delegado la firma en Adquira, por lo que firmará con el certificado de Adquira.
+- **Firma por el proveedor (propia)**:** Usted firmará con un certificado propio que le identifique como persona física o como persona jurídica.
+- **Firma delegada en Adquira** :** Usted habrá delegado la firma en Adquira, por lo que firmará con el certificado de Adquira.
 
 En el caso de haber elegido la Firma por el Proveedor, para poder firmar electrónicamente sus facturas, previamente tendrá que instalar en su ordenador un Certificado de Firma Digital Avanzada, según establece la legislación española. Adquira pone a su disposición información adicional sobre cómo obtener e instalar su Certificado. Para ello, consulte la &quot; **Guía de obtención de Certificados de Firma Digital Avanzada**&quot; en el Área de Formación de Adquira
 
