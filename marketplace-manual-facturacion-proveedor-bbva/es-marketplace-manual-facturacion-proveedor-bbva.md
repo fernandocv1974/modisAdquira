@@ -17,7 +17,7 @@ El objeto de la utilización de la firma electrónica es que, el emisor de las f
 En el proceso de alta en Adquira Marketplace para la facturación electrónica, usted habrá elegido un tipo firma:
 
 - **Firma por el proveedor (propia)**: Usted firmará con un certificado propio que le identifique como persona física o como persona jurídica.
-- **Firma delegada en Adquira** : Usted habrá delegado la firma en Adquira, por lo que firmará con el certificado de Adquira.
+- **Firma delegada en Adquira**: Usted habrá delegado la firma en Adquira, por lo que firmará con el certificado de Adquira.
 
 En el caso de haber elegido la Firma por el Proveedor, para poder firmar electrónicamente sus facturas, previamente tendrá que instalar en su ordenador un Certificado de Firma Digital Avanzada, según establece la legislación española. Adquira pone a su disposición información adicional sobre cómo obtener e instalar su Certificado. Para ello, consulte la &quot; **Guía de obtención de Certificados de Firma Digital Avanzada**&quot; en el Área de Formación de Adquira
 
@@ -150,7 +150,7 @@ Se mostrará el listado de facturas que cumplan con los datos definidos en los f
 
 ###  1.7.1. Guardar Búsquedas
 
-Si se quiere guardar las consultas para futuras ejecuciones, podremos realizarlo pulsando el icono ![](RackMultipart20211217-4-yfmrzb_html_858a9d73dccd7d34.png) .
+Si se quiere guardar las consultas para futuras ejecuciones, podremos realizarlo pulsando el icono. ![](RackMultipart20211217-4-yfmrzb_html_858a9d73dccd7d34.png)
 
 ![](RackMultipart20211217-4-yfmrzb_html_4acab95bf7eff382.png)
 
@@ -389,8 +389,8 @@ Ante esta situación, se podrá emitir una única factura para esas dos recepcio
 Al generar una única factura para las dos recepciones, se pulsará el botón **Crear facturas** y Marketplace mostrará una pantalla en donde deberá indicar la siguiente información:
 
 - **Prefijo del número de factura** , valor que se incluirá en el número de factura y que se irá incrementando de uno en uno según el nº de facturas a crear.
-- **Nº de factura**** ,** número de factura sin el prefijo inicial.
-- **Fecha de factura**** ,** Fecha de emisión de la factura.
+- **Nº de factura** , número de factura sin el prefijo inicial.
+- **Fecha de factura** , Fecha de emisión de la factura.
 - **Fecha de vencimiento** , fecha estimada de vencimiento según lo acordado con el comprador al que se emite la factura.
 - **Comentarios** : comentarios adicionales de la factura
 - **Impuesto**
