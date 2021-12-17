@@ -1,21 +1,3 @@
-# **Facturación Electrónica - BBVA**
-
-# **Manual de Proveedor**
-
-# **Adquira Marketplace**
-
-![Shape5](RackMultipart20211217-4-yfmrzb_html_7385f2ddc6a2b208.gif)
-
-# Propiedad Intelectual
-
-La presente obra ha sido divulgada y editada por ADQUIRA ESPAÑA S.A. correspondiéndole por tanto la totalidad de los derechos sobre la misma.
-
-En virtud de lo anterior, corresponden a ADQUIRA ESPAÑA S.A. los derechos de explotación sobre la presente obra en cualquier forma, y en particular los derechos de reproducción, distribución y transformación que no podrán ser realizadas sin autorización expresa y escrita de ADQUIRA S.A.
-
-![Shape6](RackMultipart20211217-4-yfmrzb_html_669f5160f37470ae.gif)
-
-
-
 ## 1. Facturación Electrónica
 
 ###  1.1. Introducción a la Facturación Electrónica
@@ -34,8 +16,8 @@ El objeto de la utilización de la firma electrónica es que, el emisor de las f
 
 En el proceso de alta en Adquira Marketplace para la facturación electrónica, usted habrá elegido un tipo firma:
 
-- **Firma por el proveedor (propia)**:** Usted firmará con un certificado propio que le identifique como persona física o como persona jurídica.
-- **Firma delegada en Adquira** :** Usted habrá delegado la firma en Adquira, por lo que firmará con el certificado de Adquira.
+- **Firma por el proveedor (propia)**: Usted firmará con un certificado propio que le identifique como persona física o como persona jurídica.
+- **Firma delegada en Adquira** : Usted habrá delegado la firma en Adquira, por lo que firmará con el certificado de Adquira.
 
 En el caso de haber elegido la Firma por el Proveedor, para poder firmar electrónicamente sus facturas, previamente tendrá que instalar en su ordenador un Certificado de Firma Digital Avanzada, según establece la legislación española. Adquira pone a su disposición información adicional sobre cómo obtener e instalar su Certificado. Para ello, consulte la &quot; **Guía de obtención de Certificados de Firma Digital Avanzada**&quot; en el Área de Formación de Adquira
 
