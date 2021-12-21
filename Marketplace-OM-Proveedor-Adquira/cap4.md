@@ -64,8 +64,7 @@ Para salir de dicha página y volver a la de inicio pulsaremos dentro del menú 
 
 ![Marketplace](/Marketplace-OM-Proveedor-Adquira/img/cap4-11.png)
 
-  - Búsqueda avanzada: al pulsar sobre este enlace nos llevará a la página de la Búsqueda avanzada en la que nos aparecen distintas pestañas en función del tipo de búsqueda que deseemos realizar, pedidos, pedidos colaborativos, pedidos externos o facturas.
-    Una vez seleccionada la pestaña correspondiente en función del elemento a buscar, aparecerán diversos campos donde podremos introducir nuestros criterios de búsqueda avanzada, una vez indicados, pulsaremos el botón aplicar filtros.
+  - Búsqueda avanzada: al pulsar sobre este enlace nos llevará a la página de la Búsqueda avanzada en la que nos aparecen distintas pestañas en función del tipo de búsqueda que deseemos realizar, pedidos, pedidos colaborativos, pedidos externos o facturas. Una vez seleccionada la pestaña correspondiente en función del elemento a buscar, aparecerán diversos campos donde podremos introducir nuestros criterios de búsqueda avanzada, una vez indicados, pulsaremos el botón aplicar filtros.
 
 ![Marketplace](/Marketplace-OM-Proveedor-Adquira/img/cap4-12.png)
 
